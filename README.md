@@ -52,3 +52,16 @@ We predicted the maximum of the remaining three classes as the output for each e
     * Min Child Weight =5
     * Maximum Depth (for each tree): 5, sub_sample=0.8 ,col_pos_weight=0.8
 
+
+<br>
+<br>
+
+## Github repos of similar Data Science Competitions:
+
+* [Analyze-This-18](https://github.com/ekagra-ranjan/Analyze-This-18)
+* [Inter-IIT-Techmeet-17](https://github.com/ekagra-ranjan/Optimal-Bidding/)
+* [GS-Quantify-17](https://github.com/ekagra-ranjan/GS-Quantify-17/)
+
+<p align="center">
+	Please star the repo if you found the materials in the repo useful :)
+</p>
