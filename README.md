@@ -8,11 +8,16 @@ Analyze-This-17
 
 <p align="center">
   <a href="https://github.com/ekagra-ranjan/Analyze-This-17/raw/master/Method_Presentation_Top_Floors_IITGuwahati.pptx"><img src="http://img.shields.io/badge/Slides-ppt-orange.svg"></a>
+  <a href="https://github.com/ekagra-ranjan/Analyze-This-17/raw/master/Method_Presentation_Top_Floors_IITGuwahati.pptx"><img src="http://img.shields.io/badge/Result-Outstanding Performer-blue.svg"></a>
+  <a href="https://github.com/ekagra-ranjan/Analyze-This-17/raw/master/Method_Presentation_Top_Floors_IITGuwahati.pptx"><img src="http://img.shields.io/badge/Team Name-Top Floors-purple.svg"></a>
 </p>
 
 <p align="center">
 Declared <b> 'Outstanding Performer' </b> by American Express.
 </p>
+
+<br>
+<br>
 
 ## Estimation Technique Used
 We used a Gradient Boosting Machine – implementing the **xgboost** Python library.
