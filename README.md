@@ -61,6 +61,7 @@ We predicted the maximum of the remaining three classes as the output for each e
 * [Analyze-This-18](https://github.com/ekagra-ranjan/Analyze-This-18)
 * [GS-Quantify-17](https://github.com/ekagra-ranjan/GS-Quantify-17/)
 * [Inter-IIT-Techmeet-17](https://github.com/ekagra-ranjan/Optimal-Bidding/)
+* [awesome-undergrad-hackathons](https://github.com/ekagra-ranjan/awesome-undergrad-hackathons)
 
 <p align="center">
 	Please star the repo if you found the materials in the repo useful :)
